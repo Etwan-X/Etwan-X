@@ -7,7 +7,7 @@
 
 - 📫 ¿Cómo encontrarme?: **isc.ossevgar@me.com**
 
-- 📄 Conoce mis experiencias: He sido desarrollador móvil, web y QA Tester con 13 años de experiencia en proyectos dentro de empresas como TV Azteca, ADN 40, Global Hitss, Seguro Inteligente, Banorte, Engie, Coally (Colombia), Claro Pay (Brasil), entre otras. Siempre busco nuevos retos profesionales y conocer nuevas tecnologías.
+- 📄 Conoce mis experiencias: He sido desarrollador móvil, web y QA Tester con 13 años de experiencia en proyectos dentro de empresas como TV Azteca, ADN 40, Global Hitss, Seguro Inteligente, Banorte, Engie, Coally (Colombia), Claro Pay (Brasil), Liverpool, Banco Azteca, entre otras. Siempre busco nuevos retos profesionales y conocer nuevas tecnologías.
 
 - 🌱 Actualmente estoy mejorando mis habilidades en Swift, Flutter y .NET
 
